@@ -35,10 +35,12 @@ Here are some of the  outputs of my analysis:
 
 # Maximum infection rate VS social support is plotted to understand if any relation exists 
 ![6](https://user-images.githubusercontent.com/53258421/88591088-6b6ac100-d079-11ea-81af-43b48a12e632.png)
+
+
 # Here Healthy life expectancy is plotted against max infection rate 
 ![8](https://user-images.githubusercontent.com/53258421/88591081-69a0fd80-d079-11ea-9ec1-e76481a9f52f.png)
 
-# The above graph is then used to see id there is any relation that could be identified .
+# The above graph is then used to see if there is any relation that could be identified .
 ![9](https://user-images.githubusercontent.com/53258421/88591077-67d73a00-d079-11ea-9329-29a195312c2e.png)
 
 
