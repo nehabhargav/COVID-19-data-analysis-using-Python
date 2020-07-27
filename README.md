@@ -16,3 +16,9 @@ We found very interesting results in our data set.
 That is people who are living in developed countries are more prone to infections from corona . As compared to people in less developed countries.
 Then you might say that this is because of lack of test kits in less developed countries so in order to prove that this is not the case .
 I recommend you to the exact same analysis on the data set related to cumulative number of deaths
+
+
+Here are some of the  outputs of my analysis:
+
+
+
