@@ -21,4 +21,20 @@ I recommend you to the exact same analysis on the data set related to cumulative
 Here are some of the  outputs of my analysis:
 
 
+![1](https://user-images.githubusercontent.com/53258421/88590868-0c0cb100-d079-11ea-956c-b332f52c075b.png)
+![2](https://user-images.githubusercontent.com/53258421/88591098-6d348480-d079-11ea-8e20-8bdae9477b94.png)
+![3](https://user-images.githubusercontent.com/53258421/88591097-6c9bee00-d079-11ea-9579-9f0dbfc64411.png)
+![4](https://user-images.githubusercontent.com/53258421/88591094-6c035780-d079-11ea-8aa7-1451a93e437a.png)
+![5](https://user-images.githubusercontent.com/53258421/88591089-6b6ac100-d079-11ea-820f-6596c852fc8f.png)
+
+
+![6](https://user-images.githubusercontent.com/53258421/88591088-6b6ac100-d079-11ea-81af-43b48a12e632.png)
+![7](https://user-images.githubusercontent.com/53258421/88591086-6ad22a80-d079-11ea-9942-16a183a511b7.png)
+![8](https://user-images.githubusercontent.com/53258421/88591081-69a0fd80-d079-11ea-9ec1-e76481a9f52f.png)
+![9](https://user-images.githubusercontent.com/53258421/88591077-67d73a00-d079-11ea-9329-29a195312c2e.png)
+
+
+
+
+
 
